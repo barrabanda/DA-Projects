@@ -1,4 +1,4 @@
-Formation of a monetization model
+# Formation of a monetization model
 
 ## Data
 The following data is provided for analysis:
