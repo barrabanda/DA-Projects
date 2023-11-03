@@ -1,4 +1,4 @@
-# Data Analytics Projects
+# Data Analysis Projects
 
 | Title | Sphere | Contents | Tools |
 | :-------------------- | :-------------------- |:--------------------|:--------------------|
