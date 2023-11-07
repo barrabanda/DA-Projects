@@ -2,7 +2,7 @@
 
 ## Data
 The following data is provided for analysis:
-- data about the gaming activities of the first users of the application
+- gaming activities of the first users of the application
 - information about the source the user came from
 - user acquisition cost data
 
