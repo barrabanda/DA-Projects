@@ -1,5 +1,8 @@
 # Monetization model
 
+## Dashboard
+https://public.tableau.com/authoring/Monetization-EN/Monetization-EN#1
+
 ## Data
 The following data is provided for analysis:
 - gaming activities of the first users of the application
