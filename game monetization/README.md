@@ -16,4 +16,4 @@ Based on the presented data, formulate a monetization model for the gaming appli
 The behavior of players in a gaming application was analyzed. The return on investment for attracting users to the game has been calculated. The most suitable advertising format was determined and recommendations were given for further possible monetization strategies.
 
 ## Libraries
-pandas seaborn plotly scipy
+pandas seaborn plotly scipy numpy
