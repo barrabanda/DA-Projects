@@ -1,5 +1,7 @@
 # A/B testing
 
+https://nbviewer.org/github/barrabanda/DA-Projects/blob/8cbc2d814406f80a3cb56b75255f04c9d47baa6b/AB%20testing/Project_AB_EN.ipynb
+
 ## Data
 The following data is provided for analysis:
 - data on marketing events
