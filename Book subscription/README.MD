@@ -1,6 +1,6 @@
 # Book subscription service research
 
-
+https://nbviewer.org/github/barrabanda/DA-Projects/blob/main/Book%20subscription/Project_SQL_EN.ipynb
 
 ## Data
 The following data is provided for analysis:
