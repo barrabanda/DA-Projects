@@ -2,7 +2,7 @@
 
 ## Data
 The following data is provided for analysis:
-- information about housing market in TN
+- information about housing market in Nashville
 
 ## Task
 Cleaning data
