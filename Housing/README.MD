@@ -5,7 +5,7 @@ The following data is provided for analysis:
 - information about housing market in Nashville
 
 ## Task
-Cleaning data
+Data preprocessing: removing duplicates, converting formats, filling in gaps
 
-## Libraries
+## Tools
 sql
